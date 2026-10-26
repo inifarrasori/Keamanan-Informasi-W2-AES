@@ -8,3 +8,5 @@ Komunikasi Dua Arah: Alice dan Bob harus dapat berperan sebagai sender maupun re
 Implementasi AES dan Format Data: Key dan plaintext harus menggunakan format ASCII, sedangkan ciphertext ditampilkan dalam format hexadecimal (Hex). IMPLEMENTASI AES DAN KDC HARUS MANUAL. Key harus dapat diubah dan disarankan tidak di-hardcode.
 
 Interaktivitas Program: Program disarankan dibuat interaktif agar memudahkan pengujian berbagai test case saat demo (key bisa diubah tanpa menjalankan ulang program).
+
+<img width="602" height="453" alt="image" src="https://github.com/user-attachments/assets/19cc331b-f4a2-40db-8664-94102e8352a1" />
