@@ -1,4 +1,7 @@
 # Keamanan-Informasi-W2-AES
+Identitas Kelompok:
+Farras Abdurrazaq Ar-Rasyid (5025241091)
+
 Ketentuan:
 
 Arsitektur dan Key Distribution: Implementasikan Key Distribution Scenario yang melibatkan tiga entitas, yaitu KDC, Alice, dan Bob, menggunakan 3 IP address berbeda. Skenario key distribusinya mengikuti dari PPT yang diterangkan dikelas. Setelah langkah ke-5 dalam skenario, Alice dan Bob harus dapat berkomunikasi menggunakan algoritma AES.
