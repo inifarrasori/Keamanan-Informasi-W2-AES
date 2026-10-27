@@ -61,7 +61,7 @@ def main():
     while True:
         keys = get_keys()
         print("\n" + "="*40)
-        print("   KDC SERVER (IP: 127.0.0.1:5000)    ")
+        print("KDC SERVER (IP: 127.0.0.1:5000)")
         print(f"[KUNCI AKTIF]")
         print(f"  - Node A (Ka): {keys.get('NodeA')}")
         print(f"  - Node B (Kb): {keys.get('NodeB')}")

@@ -93,8 +93,7 @@ def run_handshake():
 
 def main():
     print("="*40)
-    print("   INITIATOR NODE A (IP: 127.0.0.2)    ")
-    print("="*40)
+    print("INITIATOR NODE A (IP: 127.0.0.2)    ")
     while True:
         ch = input("Tekan '1' lalu Enter untuk memulai transaksi: ").strip()
         if ch == '1': run_handshake()

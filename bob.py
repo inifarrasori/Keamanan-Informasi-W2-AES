@@ -39,7 +39,7 @@ def listen_responder():
     server.listen(5)
     
     print("="*40)
-    print("   RESPONDER NODE B (IP: 127.0.0.3)    ")
+    print("RESPONDER NODE B (IP: 127.0.0.3)    ")
 
     while True:
         print("[Node B] Menunggu koneksi...")
